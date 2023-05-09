@@ -28,4 +28,4 @@ Parameters to customize ```src/Desktop.js``` and ```src/Mobile.js``` can be foun
 Images should be saved inside the ```src/images/``` folder.
 
 ## License
-This codebase is licensed under Apache-2.0. For more information, see the LICENSE file in this repository.
+This codebase is licensed under [Apache-2.0](https://github.com/sugia/React-Landing-Page-Template/blob/main/LICENSE). For more information, see the LICENSE file in this repository.
