@@ -10,6 +10,7 @@ Quickly bring up a landing page for your app on desktop and mobile.
 ![mobile_gif](https://github.com/sugia/React-Landing-Page-Template/assets/2340878/fc8b7f2f-734c-4192-bd87-a497322280d2)
 
 ## Getting Started
+```
 git clone https://github.com/sugia/React-Landing-Page-Template.git
 
 cd React-Landing-Page-Template
@@ -17,13 +18,14 @@ cd React-Landing-Page-Template
 npm i
 
 npm run start
-
+```
 ## Usage
-Website metadata can be found in the public/ folder.
 
-Parameters to customize src/Desktop.js and src/Mobile.js can be found in src/store/Context.js.
+Website metadata can be found in the ```public/``` folder.
 
-Images should be saved inside the src/images/ folder.
+Parameters to customize ```src/Desktop.js``` and ```src/Mobile.js``` can be found in ```src/store/Context.js```.
+
+Images should be saved inside the ```src/images/``` folder.
 
 ## License
 This codebase is licensed under Apache-2.0. For more information, see the LICENSE file in this repository.
