@@ -2,7 +2,7 @@
 Quickly bring up a landing page for your app on desktop and mobile.
 
 ## Live Demo
-https://voiceqna.com/mirror
+https://mirror.voiceqna.com
 
 https://amplichat.com
 
