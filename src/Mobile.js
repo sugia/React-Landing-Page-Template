@@ -48,7 +48,7 @@ function SectionItem(props) {
                     initial={{x: -300, opacity: 0}} 
                     whileInView={{x: 0, opacity: 1, transition: {type: 'spring', bounce: 0, duration: 1}}} 
                     viewport={{once: true}}>
-                <Image preview={false} src={props.sectionItem.image} style={{'boxShadow': '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}></Image>
+                <Image preview={false} src={props.sectionItem.image} style={{'boxShadow': '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)', 'maxWidth': '600px'}}></Image>
             </motion.div>
         </Row>
     )
@@ -149,11 +149,11 @@ function Mobile() {
                                 {state.endorsementText}
                             </Typography>
                         </Row>
-                        <Row justify='space-between' style={{'marginTop': '50px'}}>
+                        <Row justify='space-around' style={{'marginTop': '50px'}}>
                             {
                                 state.endorsementList.map((endorsementItem, index) => {
                                     return (
-                                        <Col span={4}>
+                                        <Col style={{'margin': 'auto'}}>
                                             <Tooltip placement='top' title={endorsementItem.title} color={endorsementItem.titleColor}>
                                                 <a href={endorsementItem.URL} target='_blank' rel="noopener noreferrer">
                                                     <Image height={50} preview={false} src={endorsementItem.image} style={{'boxShadow': '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)'}}></Image>

@@ -70,7 +70,7 @@ function MobileApp() {
 
 function App() {
   function isDesktop() {
-    return 500 < window.innerWidth
+    return 850 < window.innerWidth
   }
 
   return (
