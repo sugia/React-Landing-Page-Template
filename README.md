@@ -2,9 +2,13 @@
 Quickly bring up a landing page for your app on desktop and mobile.
 
 ## Live Demo
-https://jomimi.com
 
 https://mirror.voiceqna.com
+
+https://paper.jomimi.com
+
+https://jomimi.com
+
 
 ## Mobile Demo
 
