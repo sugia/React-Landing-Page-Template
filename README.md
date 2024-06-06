@@ -4,17 +4,19 @@ Quickly bring up a landing page for your app on desktop and mobile.
 ## Live Demo
 https://jomimi.com
 
-https://voiceqna.com
-
-https://amplichat.com
-
-## Desktop Demo
-
-![desktop_gif](https://github.com/sugia/React-Landing-Page-Template/assets/2340878/2c80683a-b574-4d8f-8200-ae3984bb9794)
+https://mirror.voiceqna.com
 
 ## Mobile Demo
 
-![mobile_gif](https://github.com/sugia/React-Landing-Page-Template/assets/2340878/fc8b7f2f-734c-4192-bd87-a497322280d2)
+![voice_mirror_mobile](https://github.com/sugia/React-Landing-Page-Template/assets/2340878/910bfe85-ac8d-466b-a58d-24d80fd0b0d2)
+
+## Desktop Demo
+
+![paper_desktop](https://github.com/sugia/React-Landing-Page-Template/assets/2340878/e19de352-f5f9-4e11-a081-3a30e8d97a54)
+
+## Tablet Demo
+
+![jomimi_tablet](https://github.com/sugia/React-Landing-Page-Template/assets/2340878/78b95546-922e-4853-87d9-39889fd2852c)
 
 ## Getting Started
 ```
